@@ -1,10 +1,8 @@
 ## ⚡ Technologies
 
-![Programs](https://skillicons.dev/icons?i=linux,git,vscode,pycharm,intellij,mysql,mssql,nodejs)
+![Programs](https://skillicons.dev/icons?i=linux,git,gitlab,github,vscode,idea,nodejs)
 
-![Frameworks](https://skillicons.dev/icons?i=numpy,pandas,plotly,dash)
-
-![Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,ionic,react&perline=7)
+![Languages](https://skillicons.dev/icons?i=py,html,css,js,ts,java,react)
 
 ## 📊 Statistics
 
