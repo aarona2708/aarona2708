@@ -2,7 +2,7 @@
 
 ![Programs](https://skillicons.dev/icons?i=linux,git,vscode,pycharm,intellij,mysql,mssql,nodejs)
 
-![Frameworks](https://skillicons.dev/icons?i=.net,numpy,pandas,plotly,dash)
+![Frameworks](https://skillicons.dev/icons?i=numpy,pandas,plotly,dash)
 
 ![Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,ionic,react&perline=7)
 
