@@ -1,16 +1,15 @@
-### Hi there 👋
+## ⚡ Technologies
 
-<!--
-**aarona2708/aarona2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Programs](https://skillicons.dev/icons?i=linux,git,vscode,pycharm,intellij,mysql,mssql,nodejs)
 
-Here are some ideas to get you started:
+![Frameworks](https://skillicons.dev/icons?i=.netnumpy,pandas,plotly,dash)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Languages](https://skillicons.dev/icons?i=html,css,sass,js,ts,ionic,react&perline=7)
+
+## 📊 Statistics
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aarona2708&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarona2708&theme=gotham&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aarona2708.aarona2708)
